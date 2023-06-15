@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+    color: black;
+}
+
+.name-container{
+    justify-content:center;
+    display: flex;
+}
+
+.name{
+ 
+
+}
+
+@media screen and (max-width: 600px) {
+    header, nav, main, section, footer {
+      padding: 10px;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    header h1 {
+      font-size: 24px;
+    }
+  }
