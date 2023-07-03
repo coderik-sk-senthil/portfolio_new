@@ -84,7 +84,7 @@ h1,h2,h3,h4,h5,h6 {
   
   
   :root {
-    /** colors ***/
+    /** colors - just for reference ***/
   --cadet-blue-crayola: hsl(240, 10%, 70%);
   --gold-web-golden: hsl(50, 100%, 54%);
   --vivid-sky-blue: hsl(196, 84%, 63%);
@@ -102,9 +102,7 @@ h1,h2,h3,h4,h5,h6 {
   --black: hsl(0, 0%, 0%);
   --white: hsl(0, 0%, 100%);
 
-  /**
-   * typography
-   */
+  /** typography*/
 
   --ff-open-sans: 'Open Sans', sans-serif;
   --ff-barlow: 'Barlow', sans-serif;
@@ -120,24 +118,19 @@ h1,h2,h3,h4,h5,h6 {
   --fw-600: 600;
   --fw-700: 700;
 
-  /**
-   * border radius
-   */
+  /** border radius*/
 
   --radius-5: 5px;
   --radius-10: 10px;
   --radius-15: 15px;
   --radius-20: 20px;
 
-  /**
-   * spacing
-   */
+  /** spacing */
 
   --section-padding: 60px;
 
-  /**
-   * shadow
-   */
+  /** shadow **/
+   
 
   --shadow: 0 -5px 10px var(--manatee);
 
